@@ -6,3 +6,4 @@
 ## SavedVariablesPerCharacter: han_db_t
 
 src/han_tracker.lua
+src/han_settings.lua
