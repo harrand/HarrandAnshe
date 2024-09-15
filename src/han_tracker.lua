@@ -94,7 +94,7 @@ function han_init()
 	-- and then an options frame for the addons interface.
 	do
 		local panel = CreateFrame("Frame", "HarrandAnshe_Options", InterfaceOptionsFramePanelContainer)
-		panel.name = "Harrand An'She Tracker"
+		panel.name = "Harrand An'she Tracker"
 		panel:SetScript("OnShow", impl_han_options_menu)
 		local category, layout = _G.Settings.RegisterCanvasLayoutCategory(panel, panel.name)
 		_G.Settings.RegisterAddOnCategory(category)
