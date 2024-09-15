@@ -1,0 +1,8 @@
+## Interface: 110207
+## Title: Harrand's An'she Tracker
+## Notes: Tracker for [Blessing of An'she] in The War Within
+## Version: 1.0.0
+## IconTexture: 5764908
+## SavedVariablesPerCharacter: han_db_t
+
+src/han_tracker.lua
